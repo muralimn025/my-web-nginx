@@ -1,6 +1,6 @@
 FROM centos
 
-MAINTAINER Nanthakumar Arumugam <nanthait@gmail.com>
+MAINTAINER Murali MN <murali3d@gmail.com>
 
 RUN yum -y install httpd
 
